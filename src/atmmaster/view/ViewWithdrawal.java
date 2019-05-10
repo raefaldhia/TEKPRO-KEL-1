@@ -10,6 +10,7 @@ package atmmaster.view;
  *
  * @author Rayhan Azka  <rayhan.azka.tif418@polban.ac.id>
  */
+//halo halo hai :>
 public class ViewWithdrawal extends ViewBase {
     public ViewWithdrawal (Keypad keypad, Screen screen) {
         super(keypad, screen);
