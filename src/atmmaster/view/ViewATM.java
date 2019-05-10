@@ -7,7 +7,7 @@ package atmmaster.view;
 
 /**
  *
- * @author Rayhan Azka  <rayhan.azka.tif418@polban.ac.id>
+ * @author FATHARANI
  */
 public class ViewATM extends ViewBase {
     public ViewATM(Keypad keypad, Screen screen) {
